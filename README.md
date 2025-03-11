@@ -35,4 +35,14 @@ Este challenge foi proposto pela escola de Tecnologia Alura.
 
    # Dev
    
- 
+  
+
+   <a href="https://github.com/ViniciusKCruz" target="_blank">
+  <img loading="lazy" src="https://avatars.githubusercontent.com/u/169309059?v=4"  style="width: 300px; height: auto; text-align: center; font-size: 24px; display: block; margin-top: 10px; color: white; text-decoration: none; font-weight: bold;">
+</a>
+<br></br>
+<a href="https://github.com/ViniciusKCruz" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 20px; font-weight: bold; background-color: #24292F; color: white; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: all 0.3s ease;">
+  Visite meu GitHub
+</a>
+
+  
