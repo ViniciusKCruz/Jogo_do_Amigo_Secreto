@@ -28,15 +28,22 @@ Este challenge foi proposto pela escola de Tecnologia Alura.
                 - Gerar um índice aleatório
                 - Obter o nome sorteado
                 - Mostrar o resultado
-             
-    # Tecnologias
+   # Jogo
+    
+   <a href="https://viniciuskcruz.github.io/Jogo_do_Amigo_Secreto/" target="_blank">
+  <div style="display: inline-block; padding: 15px 30px; font-size: 20px; font-weight: bold; background-color: #ff5733; color: white; text-align: center; text-decoration: none; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: auto; transition: all 0.3s ease;" 
+       onmouseover="this.style.backgroundColor='#c0392b'" onmouseout="this.style.backgroundColor='#ff5733'">
+    Jogo do Amigo Secreto
+  </div>
+</a>
+
+
+   # Tecnologias
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 
    # Dev
-   
   
-
    <a href="https://github.com/ViniciusKCruz" target="_blank">
   <img loading="lazy" src="https://avatars.githubusercontent.com/u/169309059?v=4"  style="width: 300px; height: auto; text-align: center; font-size: 24px; display: block; margin-top: 10px; color: white; text-decoration: none; font-weight: bold;">
 </a>
